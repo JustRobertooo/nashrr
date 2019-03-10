@@ -12,9 +12,9 @@ console.log("Welcome Again !");
  آن شآء آلله , :cd:  
   
 آلرآبط : 
-:arrow_right:  https://discord.gg/MZ4b9hq :arrow_left:
+:arrow_right:  https://discord.gg/MpjwwRX :arrow_left:
 
-! Faster Avatar.                              
+! Citron.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -29,11 +29,11 @@ client.on("guildMemberAdd", member => {
  آن شآء آلله , :cd:  
   
 آلرآبط : 
-:arrow_right:  https://discord.gg/MZ4b9hq :arrow_left:
+:arrow_right:  https://discord.gg/MpjwwRX :arrow_left:
 
-! Faster Avatar.                              
+! Citron.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
-client.login('NTQwOTExODI2Mjk3NDIxODM1.DzXzOw.DmMuxoynqc5Y2h6ho1thQB8jqJE');
+client.login(process.env.TOKEN);
